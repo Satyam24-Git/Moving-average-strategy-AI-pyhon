@@ -1,0 +1,1 @@
+# Moving-average-strategy-AI-pyhon
